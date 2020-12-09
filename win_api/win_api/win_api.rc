@@ -55,7 +55,6 @@ BEGIN
     POPUP "파일"
     BEGIN
         MENUITEM "열기",                          ID_FILEOPEN
-        MENUITEM "저장",                          ID_FILESAVE
     END
 END
 
